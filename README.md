@@ -2,11 +2,11 @@
                              
 <img  src="https://github.com/Saeed-farzi-programer/Saeed-farzi-programer/assets/144845912/1a1002a9-d7cf-43eb-8c9f-341c514e4251">
 <h1 align="left">Hi 👋, I'm saeed farzi</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<h3 align="left">A passionate frontend developer from Iran</h3>
 
 
 <h2 align="right">سلام 👋 من سعید فرضی هستم </h2>
-<p align="center">طراح سایتم 🐍 و دوست دارم به همه یادش بدم  💻 و خلاصه عاشق دنیای کامپیوتر ❤️</p>
+<p align="right">طراح سایتم 🐍 و دوست دارم به همه یادش بدم  💻 و خلاصه عاشق دنیای کامپیوتر ❤️</p>
 
 <br>
 <br>
@@ -20,7 +20,7 @@
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-<h2 align="right">تماس با من ☎️:</h2>
+<h2 align="right">Connect with me:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;تماس با من ☎️:</h2>
 
 <a href="https://www.youtube.com/channel/UCvAMWdwUsplcY_5bcIbBDOQ"><img src="https://github.com/imrrobaat/imrrobaat/blob/main/image/youtube.png?raw=true"></a> <a href="https://www.instagram.com/learnpy/"><img src="https://github.com/imrrobaat/imrrobaat/blob/main/image/instagram.png?raw=true"></a>
 
@@ -32,7 +32,7 @@
 
 - 📫 How to reach me **saeedfarzi2002@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://instagram.com/@Saeed-develope.13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@saeed-develope.13" height="30" width="40" /></a>
 </p>
