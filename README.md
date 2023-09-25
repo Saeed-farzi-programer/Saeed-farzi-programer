@@ -1,6 +1,4 @@
-# who am i??!          
-# من کی ام؟؟!
-
+         <h1 align="right">who am i??!</h1>                                         <h1 align="left">من کی ام؟؟</h1> 
 
 <img src="https://user-images.githubusercontent.com/112483091/187425702-72de783a-c79b-4c42-949b-46f78778d95a.svg" alt="Just for Fun :D">
 
