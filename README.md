@@ -1,6 +1,6 @@
  <h1 align="left"> who am i??! </h1><h1 align="right"> من کی ام؟؟ </h1>        
                                     
-<img src="https://user-images.githubusercontent.com/112483091/187425702-72de783a-c79b-4c42-949b-46f78778d95a.svg" alt="Just for Fun :D">
+<img aligm="center" src="https://user-images.githubusercontent.com/112483091/187425702-72de783a-c79b-4c42-949b-46f78778d95a.svg" alt="Just for Fun :D">
 
 
 <h1 align="left">Hi 👋, I'm saeed farzi</h1>
@@ -11,7 +11,7 @@
 <p align="center">طراح سایتم 🐍 و دوست دارم به همه یادش بدم  💻 و خلاصه عاشق دنیای کامپیوتر ❤️</p>
 
 <br>
-<br><br><br><br>
+
 <h2 align="right">🎓 مهارت‌ها و ابزارهایی که استفاده میکنم:</h2>
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
