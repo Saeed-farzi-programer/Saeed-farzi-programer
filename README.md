@@ -11,8 +11,8 @@
 <br>
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
-<h2 align="right">🎓Languages and Tools: <hr> مهارت‌ها و ابزارهایی که استفاده میکنم:</h2>
+
+<h2 align="right">🎓Languages and Tools: &nbsp;&nbsp;&nbsp;مهارت‌ها و ابزارهایی که استفاده میکنم:</h2>
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
