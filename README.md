@@ -1,7 +1,6 @@
  <h1 align="left"> who am i??! </h1><h1 align="right"> من کی ام؟؟ </h1>        
   <style>background-image:url()  </style>                               
-<img  src="https://user-images.githubusercontent.com/112483091/187425702-72de783a-c79b-4c42-949b-46f78778d95a.svg" alt="Just for Fun :D">
-
+<img  src="https://github.com/Saeed-farzi-programer/Saeed-farzi-programer/assets/144845912/ea6dbbd7-cb34-4bf1-be8a-181da7dd324e">
 
 <h1 align="left">Hi 👋, I'm saeed farzi</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
