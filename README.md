@@ -2,8 +2,13 @@
                                     
 <img src="https://user-images.githubusercontent.com/112483091/187425702-72de783a-c79b-4c42-949b-46f78778d95a.svg" alt="Just for Fun :D">
 
-<h2 align="center">سلام 👋 من سعید هستم </h2>
-<p align="center">طراح سایتم 🐍 و دوست دارم به همه یادش بدم 🎯 یوتوبر هم هستم 💻 و خلاصه عاشق دنیای کامپیوتر ❤️</p>
+
+<h1 align="center">Hi 👋, I'm saeed farzi</h1>
+<h3 align="center">A passionate frontend developer from Iran</h3>
+
+
+<h2 align="center">سلام 👋 من سعید فرضی هستم </h2>
+<p align="center">طراح سایتم 🐍 و دوست دارم به همه یادش بدم  💻 و خلاصه عاشق دنیای کامپیوتر ❤️</p>
 
 <h2 align="right">🎓 مهارت‌ها و ابزارهایی که استفاده میکنم:</h2>
 
@@ -18,10 +23,6 @@
 <a href="https://www.youtube.com/channel/UCvAMWdwUsplcY_5bcIbBDOQ"><img src="https://github.com/imrrobaat/imrrobaat/blob/main/image/youtube.png?raw=true"></a> <a href="https://www.instagram.com/learnpy/"><img src="https://github.com/imrrobaat/imrrobaat/blob/main/image/instagram.png?raw=true"></a>
 
 
-
-
-<h1 align="center">Hi 👋, I'm saeed farzi</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
 
 - 🔭 I’m currently working on **snapp consept**
 
